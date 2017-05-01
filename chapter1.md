@@ -1,3 +1,8 @@
-# First Chapter
+# 第一章
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
+
+各位讀者，你問這個故事從何而來？說起來真是個荒唐的故事，但是細細深究，也饒有一番趣味。請讓在下將此故事細說從頭。
+
+原來，在神農嘗遍百草，分辨出三百六十五種草藥之後，第三百六十六株草被神農氏棄置一旁。誰知此草經神農觸碰過之後，竟也有了靈性，見到眾草得以入藥救人，唯獨自己不被重視，遂自怨自嘆，日夜悲號慚愧。
+
